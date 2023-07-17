@@ -38,7 +38,7 @@ The dataset is a public use file containing information collected on a nationall
     * Age of Diabetes Diagnosis by Race:
     * The average age of diabetes diagnosis varied among racial groups.
     * White and Asian individuals tended to receive a diabetes diagnosis at a later age compared to Black, Hispanic, and other racial groups.
-    * Hispanic and other racial groups tended to receive a diabetes diagnosis around the age of 43-44.
+    * Hispanic and other racial groups tended to receive a diabetes diagnosis around the age of 43-44. This finding suggests that cultural foods may have a lesser influence on diabetes development when compared to the potential impact of a US diet. It implies that non-US born Hispanics, who are more inclined to cherish their cultural cuisine rather than indulge in American dishes, may demonstrate a potentially lower diabetes risk.
     * Age of Diabetes Diagnosis by Country of Origin:
     * Among US-born Hispanics, the average age of diabetes diagnosis was 44.
     * Among Hispanics not born in the USA, the average age of diabetes diagnosis was 49.
