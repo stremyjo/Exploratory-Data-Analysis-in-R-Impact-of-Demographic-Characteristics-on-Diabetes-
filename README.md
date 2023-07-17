@@ -84,8 +84,8 @@ This dataset is a fairly large size and originally consisted of 28,336 entries a
 * RACEWX: White among races reported (edited/imputed)
 ## R Cleaning and Analyzing Steps
 The detailed cleaning and data analysis steps, along with the corresponding R code, can be found in the following documents:
-* Cleaning and Analysis Steps
-* R Code
+* [Cleaning and Analysis Steps](https://docs.google.com/document/d/1SGZrEwqvfDTv7yttrEemYgg99dBqZ0B_OSGYWLr1dT0/edit?usp=sharing)
+* [R Code](https://docs.google.com/document/d/15BplmBAyTHKT6KwwRu3E7gwmPLX2NbtLbPlDK3PlSx0/edit?usp=sharing)
 ## Tableau Dashboard and Report (Work in Progress)
 A Tableau dashboard and a short report based on the insights discovered are currently being developed. Updates will be provided once they are available.
-For now the link the my Tableau Public Profile can be found here[Link](https://public.tableau.com/app/profile/joanne.st.remy)
+For now the link the my Tableau Public Profile can be found [here](https://public.tableau.com/app/profile/joanne.st.remy)
