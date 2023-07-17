@@ -1,9 +1,9 @@
 ## Exploratory Data Analysis
-Project Goal
+Project Goal:
 The goal of this project was to clean, analyze, and visualize data from the "MEPS HC-228 2021 Full Year Population Characteristics" dataset. The project aimed to identify trends between diabetes and certain key demographic characteristics, focusing on age, sex, race, ethnicity, employment status, education, and country of birth.
 Dataset Documentation
 The dataset's documentation can be found here. It provides information about the validity and sample size for the population, along with key codes and other pertinent information regarding the data collected.
-## Background on the Dataset
+## Background on the Dataset:
 The dataset is a public use file containing information collected on a nationally representative sample of the civilian noninstitutionalized population of the United States for the calendar year 2021. It includes data from multiple rounds of the Medical Expenditure Panel Survey (MEPS). The dataset contains variables related to survey administration, demographics, person-level conditions, health status, disability days, quality of care, health care delays due to COVID-19, COVID-19 vaccinations, Social Determinants of Health (SDOH), employment, and health insurance.
 ## Key Findings from the Exploratory Data Analysis:
     * Demographic Factors and Diabetes:
