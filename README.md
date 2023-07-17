@@ -44,7 +44,9 @@ The dataset is a public use file containing information collected on a nationall
     * Among Hispanics not born in the USA, the average age of diabetes diagnosis was 49.
     * This suggests that US-born Hispanics receive a diabetes diagnosis at an earlier age compared to Hispanics not born in the USA.
     * Employment Status and Diabetes:
-    * The dataset included variables related to employment status.
+    * Individuals who have worked that reported having diabetes: 1321
+    * Individuals who have never worked that reported having diabetes: 457
+    * These results may be caused by other variables such as age, as the survey contains data from children who are unable to work. So, this may only suggest that working adults are more likely to have a diabetes diagnosis which isn’t particularly surprising. 
     * Further analysis can be conducted to explore the correlation between employment status and diabetes diagnosis.
 ## Resume Skills Practiced
 The project allowed for the application and practice of the following skills:
