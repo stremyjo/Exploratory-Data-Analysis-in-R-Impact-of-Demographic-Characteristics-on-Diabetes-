@@ -89,3 +89,11 @@ The detailed cleaning and data analysis steps, along with the corresponding R co
 ## Tableau Dashboard and Report (Work in Progress)
 A Tableau dashboard and a short report based on the insights discovered are currently being developed. Updates will be provided once they are available.
 For now the link the my Tableau Public Profile can be found [here](https://public.tableau.com/app/profile/joanne.st.remy)
+## More Projects with this Dataset
+I am currently expanding my analysis on the same diabetes population dataset, exploring additional study questions to gain deeper insights. In this new project, I have incorporated 23 additional columns, encompassing various aspects such as marital status variables, presence of high cholesterol, years spent in the US, health insurance coverage status, number of concurrent jobs, and happiness levels, among others.
+
+To showcase my expertise in Excel data cleaning and manipulation, I have meticulously recoded values and employed effective data cleaning techniques throughout the process. You can track my progress and witness how I added these new variables, cleaned the dataset, and applied data recoding by accessing the Google Sheets link provided here[Link](https://docs.google.com/spreadsheets/d/1janHbU9CxGMIyRtR4e-GN72IxE5Db-zjdQXIW79JEA8/edit#gid=119662380).
+
+Furthermore, as I work on this project I aim to utilize advanced Excel functionalities like pivot tables and xlookup/vlookup to create comprehensive tables and ultimately develop a dashboard to summarize my findings. This approach will ensure that those familiar with Excel can readily understand and engage with the information presented.
+
+Feel free to explore the Google Sheets link to witness my journey and gain insights into my proficiency in Excel data cleaning, manipulation, and visualization techniques.
