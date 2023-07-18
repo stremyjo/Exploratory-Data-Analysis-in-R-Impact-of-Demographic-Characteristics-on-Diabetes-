@@ -88,7 +88,7 @@ The detailed cleaning and data analysis steps, along with the corresponding R co
 * [R Code](https://docs.google.com/document/d/15BplmBAyTHKT6KwwRu3E7gwmPLX2NbtLbPlDK3PlSx0/edit?usp=sharing)
 ## Tableau Dashboard and Report (Work in Progress)
 A Tableau dashboard and a short report based on the insights discovered are currently being developed. Updates will be provided once they are available.
-For now the link the my Tableau Public Profile can be found [here](https://public.tableau.com/app/profile/joanne.st.remy)
+For now the link the my Tableau Public Profile can be found [here](https://public.tableau.com/app/profile/joanne.st.remy).
 ## More Projects with this Dataset
 I am currently expanding my analysis on the same diabetes population dataset, exploring additional study questions to gain deeper insights. In this new project, I have incorporated 23 additional columns, encompassing various aspects such as marital status variables, presence of high cholesterol, years spent in the US, health insurance coverage status, number of concurrent jobs, and happiness levels, among others.
 
