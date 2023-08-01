@@ -94,6 +94,6 @@ I am currently expanding my analysis on the same diabetes population dataset, ex
 
 To showcase my expertise in Excel data cleaning and manipulation, I have meticulously recoded values and employed effective data cleaning techniques throughout the process. You can track my progress and witness how I added these new variables, cleaned the dataset, and applied data recoding by accessing the Google Sheets link provided [here](https://docs.google.com/spreadsheets/d/1janHbU9CxGMIyRtR4e-GN72IxE5Db-zjdQXIW79JEA8/edit#gid=119662380).
 
-Furthermore, as I work on this project I aim to utilize advanced Excel functionalities like pivot tables and xlookup/vlookup to create comprehensive tables and ultimately develop a dashboard to summarize my findings. This approach will ensure that those familiar with Excel can readily understand and engage with the information presented.
+Furthermore, as I work on this project I aim to utilize advanced Excel functionalities like pivot tables and xlookup/vlookup to create comprehensive tables and ultimately develop a dashboard to summarize my findings. This approach will ensure that those familiar with Excel can readily understand and engage with the information presented. This dashboard can also be accessed at the abovementioned Google Sheets Link.
 
 Feel free to explore the Google Sheets link to witness my journey and gain insights into my proficiency in Excel data cleaning, manipulation, and visualization techniques.
